@@ -1,6 +1,0 @@
-{
-  "jack_tests.py::test_one": true, 
-  "jack_tests.py::test_two": true, 
-  "tests.py::test_one": true, 
-  "tests.py::test_two": true
-}
